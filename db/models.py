@@ -5,7 +5,7 @@ from db.database import Base
 from sqlalchemy import Column
 
 
-##   Customer  =============================================================================
+##   Customer  ================================================
 
 ##>>> BookNest: Customer Model
 class DbCustomer(Base):                 
